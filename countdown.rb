@@ -9,4 +9,3 @@ def countdown(integer)
   end
 
 
-countdown (10)
