@@ -10,3 +10,6 @@ end
     "Happy New Year!"
   
 end
+
+
+)countdown -= 10
