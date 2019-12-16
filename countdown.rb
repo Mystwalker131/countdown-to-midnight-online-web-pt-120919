@@ -2,7 +2,7 @@
 
 def countdown(integer)
   
-  while
+  while integer > 0
   
   
   puts
