@@ -1,5 +1,10 @@
 #write your code here
 
 def countdown(integer)
-  while 
+  while
+  
+  
+  puts
+  
+  
 end
