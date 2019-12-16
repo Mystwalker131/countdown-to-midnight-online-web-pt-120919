@@ -12,4 +12,4 @@ end
 end
 
 
-)countdown -= 10
+countdown -= (10)
